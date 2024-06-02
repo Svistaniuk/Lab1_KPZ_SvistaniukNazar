@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\bin\Debug\net6.0\lab01_KPZ_SvistaniukNazar.exe
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\bin\Debug\net6.0\lab01_KPZ_SvistaniukNazar.deps.json
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\bin\Debug\net6.0\lab01_KPZ_SvistaniukNazar.runtimeconfig.json
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\bin\Debug\net6.0\lab01_KPZ_SvistaniukNazar.dll
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\bin\Debug\net6.0\lab01_KPZ_SvistaniukNazar.pdb
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\lab01_KPZ_SvistaniukNazar.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\lab01_KPZ_SvistaniukNazar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\lab01_KPZ_SvistaniukNazar.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\lab01_KPZ_SvistaniukNazar.AssemblyInfo.cs
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\lab01_KPZ_SvistaniukNazar.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\lab01_KPZ_SvistaniukNazar.dll
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\refint\lab01_KPZ_SvistaniukNazar.dll
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\lab01_KPZ_SvistaniukNazar.pdb
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\lab01_KPZ_SvistaniukNazar.genruntimeconfig.cache
+C:\Users\Acer\source\repos\KPZ\lab01_KPZ_SvistaniukNazar\lab01_KPZ_SvistaniukNazar\obj\Debug\net6.0\ref\lab01_KPZ_SvistaniukNazar.dll
